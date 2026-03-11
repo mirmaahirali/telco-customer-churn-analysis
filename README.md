@@ -1,6 +1,6 @@
 # Identifying Drivers of Customer Churn and Revenue Impact in a Telecom Company
 
-ℹ️ ## Overview
+## ℹ️ Overview
 Customer churn represents a major challenge for subscription-based businesses because losing customers directly impacts recurring revenue. This project analyzes customer churn patterns within a telecommunications dataset to identify key factors associated with customer attrition and highlight potential strategies for improving customer retention. The analysis focuses on understanding how service usage, contract structure, and billing behavior relate to churn risk.
 
 ## Project Notebook
@@ -34,7 +34,7 @@ The analysis follows a structured data analysis process:
 5. Identification of churn drivers  
 6. Business recommendations based on insights
 
-## Key Insights
+## 💡Key Insights
 
 The exploratory analysis revealed several important patterns associated with customer churn:
 
@@ -53,3 +53,7 @@ Based on the analysis, several strategies may help reduce customer churn:
 - Reevaluate pricing or communicate value more effectively for higher-tier plans.
 - Investigate customer experience associated with fiber optic services.
 - Promote automated billing methods to improve retention.
+
+## ✍️ Author
+
+**Mir Maahir Ali**
