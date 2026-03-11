@@ -7,6 +7,10 @@ Customer churn represents a major challenge for subscription-based businesses be
 📊 View the full analysis here:  
 [Open the Jupyter Notebook](notebook/churn_analysis.ipynb)
 
+## Dataset
+
+The dataset contains customer-level information for a telecommunications company. Each record represents an individual customer and includes demographic attributes, service subscriptions, billing details, and churn status. This dataset has been taken from Kaggle, and can be found [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
+
 ## Key Variables
 
 | Variable        | Description                                             |
