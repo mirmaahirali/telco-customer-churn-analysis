@@ -6,3 +6,26 @@ Customer churn represents a major challenge for subscription-based businesses be
 ## Project Notebook
 📊 View the full analysis here:  
 [Open the Jupyter Notebook](notebook/churn_analysis.ipynb)
+
+## Key Variables
+
+| Variable        | Description                                             |
+|-----------------|---------------------------------------------------------|
+| tenure          | Number of months the customer has been with the company |
+| MonthlyCharges  | Amount billed to the customer each month                |
+| TotalCharges    | Total amount charged to the customer                    |
+| Contract        | Type of contract (month-to-month, one year, two year)   |
+| InternetService | Type of internet service subscribed                     |
+| PaymentMethod   | Customer billing method                                 |
+| Churn           | Whether the customer discontinued the service           |
+
+## Analytical Workflow
+
+The analysis follows a structured data analysis process:
+
+1. Business understanding and problem framing  
+2. Data overview and cleaning  
+3. KPI calculation to quantify churn impact  
+4. Exploratory Data Analysis (EDA)  
+5. Identification of churn drivers  
+6. Business recommendations based on insights
